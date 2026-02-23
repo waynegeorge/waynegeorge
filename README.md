@@ -124,14 +124,14 @@ Everything I've built came from curiosity, persistence, and refusing to accept t
 - 💰 Grin cryptocurrency council member with treasury oversight
 - 🏋️ Gym, swimming, long walks with the dog
 - 🌱 Trying to eat less meat, more veg — for the planet
-- 🇬🇧 South East London, born and raised
+- 🇬🇧 London, born and raised
 
 <details>
 <summary>Random Facts</summary>
 
 
 - Downloaded a Bitcoin wallet before it had a price. Didn't understand it. Classic.
-- Built control systems for rooms that cost more than most houses
+- Built control systems for rooms that cost more than some houses
 - Can program in Crestron SIMPL — and yes, that's as painful as it sounds
 - Run 8+ self-hosted services on a Mac Mini M4
 - My AI assistant has its own soul file and long-term memory
