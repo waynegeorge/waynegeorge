@@ -1,6 +1,6 @@
 # Hi, I'm Wayne 👋
 
-📍 **London, England** | 🔧 **AV Engineer → AI Builder** | 🚀 **Founder, Frontier Automations**
+📍 **London, England** | 🔧 **AV Engineer → AI Builder** | 🚀 **Founder, Frontier Consulting**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -22,18 +22,18 @@
 
 I'm a software engineer from London who spent the last decade designing bespoke AV control systems, building services management, and custom UIs for clients like **Google**, **Apple**, **UBS**, **JP Morgan Chase**, and **Morgan Stanley**. I've programmed in C#, Swift, Crestron, Lua (Q-SYS), and just about anything that controls a room.
 
-Now I'm channelling all of that into **[Frontier Automations](https://frontierautomations.com)** — an AI automation consultancy helping businesses implement real AI solutions, not just talk about them.
+Now I'm channelling all of that into **[Frontier Consulting](https://frontierconsulting.ai)** — a technology consultancy helping businesses implement custom software and AI solutions, not just talk about them.
 
 I'm also a **Grin cryptocurrency council member**, working to revive one of the most principled privacy coins ever built.
 
 ## 🏗️ What I'm Building
 
-### Frontier Automations
+### Frontier Consulting
 
-AI automation and implementation for businesses. From discovery to deployment — I build the systems that save teams hours every week.
+Custom software and AI solutions for businesses. From discovery to deployment — we build the systems that solve real business problems.
 
-- 🌐 **[frontierautomations.com](https://frontierautomations.com)** — AI automation consultancy
-- 📅 **[Book a free discovery call](https://calendly.com/w4ynegeorge/30min)**
+- 🌐 **[frontierconsulting.ai](https://frontierconsulting.ai)** — Technology consultancy
+- 📅 **[Book a free discovery call](https://calendly.com/w4ynegeorge/20-minute-strategy-session)**
 
 ### Grin Ecosystem
 
@@ -74,7 +74,7 @@ Active contributor to the Grin privacy cryptocurrency — Mimblewimble protocol,
 
 ## 🎯 Current Focus
 
-1. **Frontier Automations** — Building an AI automation business. Client work, Upwork, content creation.
+1. **Frontier Consulting** — Building a technology consultancy. Client work, custom software, AI solutions.
 2. **Grin revival** — Podcast, wallet, tooling, community building.
 3. **Content** — YouTube, X, LinkedIn. Sharing what I learn building with AI.
 
@@ -83,7 +83,7 @@ Active contributor to the Grin privacy cryptocurrency — Mimblewimble protocol,
 - 🎥 **[YouTube](https://youtube.com/@wayne-george)** — AI demos, build walkthroughs, tutorials
 - 🐦 **[X / Twitter](https://twitter.com/waynegeorge_)** — AI, crypto, building in public
 - 🌐 **[waynegeorge.uk](https://waynegeorge.uk)** — Personal site
-- 🌐 **[frontierautomations.com](https://frontierautomations.com)** — AI consultancy
+- 🌐 **[frontierconsulting.ai](https://frontierconsulting.ai)** — Technology consultancy
 
 ## 🧠 Multi-Agent Setup
 
