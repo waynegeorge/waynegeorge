@@ -105,7 +105,7 @@ All visible in a custom Mission Control dashboard, spawnable on demand. It's lik
 
 [![Twitter](https://img.shields.io/badge/-@waynegeorge__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/waynegeorge_)
 [![YouTube](https://img.shields.io/badge/-wayne--george-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@wayne-george)
-[![LinkedIn](https://img.shields.io/badge/-Wayne_George-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waynegeorge)
+[![LinkedIn](https://img.shields.io/badge/-Wayne_George-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waynegeorgeuk)
 [![Website](https://img.shields.io/badge/-waynegeorge.uk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://waynegeorge.uk)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/waynegeorge)
 
