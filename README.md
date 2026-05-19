@@ -81,7 +81,7 @@ Active contributor to the Grin privacy cryptocurrency — Mimblewimble protocol,
 ## 🎙️ Content & Media
 
 - 🎥 **[YouTube](https://youtube.com/@wayne-george)** — AI demos, build walkthroughs, tutorials
-- 🐦 **[X / Twitter](https://twitter.com/waynegeorge_)** — AI, crypto, building in public
+- 🐦 **[X / Twitter](https://twitter.com/waynegeorge)** — AI, crypto, building in public
 - 🌐 **[waynegeorge.uk](https://waynegeorge.uk)** — Personal site
 - 🌐 **[frontierconsulting.ai](https://frontierconsulting.ai)** — Technology consultancy
 
