@@ -35,20 +35,9 @@ Custom software and AI solutions for businesses. From discovery to deployment �
 - 🌐 **[frontierconsulting.ai](https://frontierconsulting.ai)** — Technology consultancy
 - 📅 **[Book a free discovery call](https://calendly.com/w4ynegeorge/20-minute-strategy-session)**
 
-### Grin Ecosystem
-
-Active contributor to the Grin privacy cryptocurrency — Mimblewimble protocol, fair emission, no ICO, no premine.
-
-- 🎙️ **[Grinning with Wayne](https://github.com/waynegeorge/grinning-website)** — Podcast and resource site exploring why Grin matters
-- 📱 **Grin iOS Wallet** — Native SwiftUI wallet with slatepack transactions, MultipeerConnectivity for in-person sends, and node connection (private, in development)
-- 🖥️ **Grin Node Dashboard** — Lightweight HTML/CSS/JS replacement for the Qt/QML WebAssembly UI on Umbrel (~5MB vs 148MB). Multi-arch Docker image on Docker Hub.
-- 🗺️ **MWixnet Deployment Guide** — Step-by-step guide for deploying Grin's mixing network
-- 🔍 **Grin Explorer** — Block explorer with SQLite indexing
-
 ### Tools & Dashboards
 
 - ⚡ **Mission Control** — Real-time multi-agent AI dashboard. Project heatmaps, agent orchestration, service health, document viewer, interactive todos, usage tracking. Express + vanilla JS.
-- 📊 **Grin Dashboard** — Live GRIN price, treasury tracking, network stats, GitHub activity
 - 💷 **MTD Tool** — Making Tax Digital app for UK self-employed tax submissions. Quarterly HMRC integration, income/expense tracking, tax estimates.
 - 🏦 **Starling Directors Loans** — Connects to Starling Bank API to track director's loan account, calculate interest, support backdating
 - 📈 **Pulse Alerts** — Price change notifications for crypto and stocks
@@ -75,8 +64,7 @@ Active contributor to the Grin privacy cryptocurrency — Mimblewimble protocol,
 ## 🎯 Current Focus
 
 1. **Frontier Consulting** — Building a technology consultancy. Client work, custom software, AI solutions.
-2. **Grin revival** — Podcast, wallet, tooling, community building.
-3. **Content** — YouTube, X, LinkedIn. Sharing what I learn building with AI.
+2. **Content** — YouTube, X, LinkedIn. Sharing what I learn building with AI.
 
 ## 🎙️ Content & Media
 
@@ -84,18 +72,6 @@ Active contributor to the Grin privacy cryptocurrency — Mimblewimble protocol,
 - 🐦 **[X / Twitter](https://twitter.com/waynegeorge_)** — AI, crypto, building in public
 - 🌐 **[waynegeorge.uk](https://waynegeorge.uk)** — Personal site
 - 🌐 **[frontierconsulting.ai](https://frontierconsulting.ai)** — Technology consultancy
-
-## 🧠 Multi-Agent Setup
-
-I run a team of AI agents orchestrated through [OpenClaw](https://openclaw.ai):
-
-- 🌬️ **Zeph** — Main agent, creative partner, orchestrator (Claude Opus)
-- 🔍 **Scout** — Research specialist (Claude Sonnet)
-- ⚒️ **Forge** — Engineering specialist (Claude Opus)
-- ✨ **Spark** — Marketing & content (Claude Sonnet)
-- 🎨 **Pixel** — Design specialist (Claude Sonnet)
-
-All visible in a custom Mission Control dashboard, spawnable on demand. It's like having a startup team that never sleeps.
 
 ## GitHub Activity
 
