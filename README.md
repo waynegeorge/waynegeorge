@@ -39,7 +39,6 @@ Custom software and AI solutions for businesses. From discovery to deployment �
 
 - ⚡ **Mission Control** — Real-time multi-agent AI dashboard. Project heatmaps, agent orchestration, service health, document viewer, interactive todos, usage tracking. Express + vanilla JS.
 - 💷 **MTD Tool** — Making Tax Digital app for UK self-employed tax submissions. Quarterly HMRC integration, income/expense tracking, tax estimates.
-- 🏦 **Starling Directors Loans** — Connects to Starling Bank API to track director's loan account, calculate interest, support backdating
 - 📈 **Pulse Alerts** — Price change notifications for crypto and stocks
 - 🌐 **Zeitgeist Dashboard** — Trending topics aggregator (X, Reddit, HN, CoinGecko, GitHub)
 - 🎤 **Zeph Voice** — Web + iOS voice interface to my AI assistant, using on-device Apple STT/TTS
@@ -79,7 +78,7 @@ Custom software and AI solutions for businesses. From discovery to deployment �
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@waynegeorge__-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/waynegeorge_)
+[![Twitter](https://img.shields.io/badge/-@waynegeorge-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/waynegeorge)
 [![YouTube](https://img.shields.io/badge/-wayne--george-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@wayne-george)
 [![LinkedIn](https://img.shields.io/badge/-Wayne_George-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waynegeorgeuk)
 [![Website](https://img.shields.io/badge/-waynegeorge.uk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://waynegeorge.uk)
@@ -101,15 +100,3 @@ Everything I've built came from curiosity, persistence, and refusing to accept t
 - 🏋️ Gym, swimming, long walks with the dog
 - 🌱 Trying to eat less meat, more veg — for the planet
 - 🇬🇧 London, born and raised
-
-<details>
-<summary>Random Facts</summary>
-
-
-- Downloaded a Bitcoin wallet before it had a price. Didn't understand it. Classic.
-- Built control systems for rooms that cost more than some houses
-- Can program in Crestron SIMPL — and yes, that's as painful as it sounds
-- Run 8+ self-hosted services on a Mac Mini M4
-- My AI assistant has its own soul file and long-term memory
-
-</details>
