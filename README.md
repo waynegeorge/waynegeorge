@@ -88,14 +88,12 @@ Custom software and AI solutions for businesses. From discovery to deployment �
 
 ### Philosophy
 
-> "I'd rather have the pain of trying than the pain of not doing what I want."
-
 Everything I've built came from curiosity, persistence, and refusing to accept that the way things are is the way they have to be. I believe in fair systems, privacy as a right, and building tools that give people more control over their own lives.
 
 ### Background
 
 - 🏢 10+ years as a software engineer in the AV industry — bespoke control systems for corporate clients worldwide
-- 🎓 First Class Honours degree, Microsoft C# certification, Crestron Certified Programmer
+- 🎓 First Class Honours degree, Microsoft C# certification, Crestron Certified Programmer, Q-SYS Advanced Lua scripting
 - 💰 Grin cryptocurrency council member with treasury oversight
 - 🏋️ Gym, swimming, long walks with the dog
 - 🌱 Trying to eat less meat, more veg — for the planet
