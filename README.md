@@ -24,7 +24,7 @@ I'm a software engineer from London who spent the last decade designing bespoke 
 
 Now I'm channelling all of that into **[Frontier Consulting](https://frontierconsulting.ai)** — a technology consultancy helping businesses implement custom software and AI solutions, not just talk about them.
 
-I'm also a **Grin cryptocurrency council member**, working to revive one of the most principled privacy coins ever built.
+I'm also a **Grin cryptocurrency council member**, working to support one of the most principled privacy coins ever built.
 
 ## 🏗️ What I'm Building
 
@@ -34,19 +34,6 @@ Custom software and AI solutions for businesses. From discovery to deployment �
 
 - 🌐 **[frontierconsulting.ai](https://frontierconsulting.ai)** — Technology consultancy
 - 📅 **[Book a free discovery call](https://calendly.com/w4ynegeorge/20-minute-strategy-session)**
-
-### Tools & Dashboards
-
-- ⚡ **Mission Control** — Real-time multi-agent AI dashboard. Project heatmaps, agent orchestration, service health, document viewer, interactive todos, usage tracking. Express + vanilla JS.
-- 💷 **MTD Tool** — Making Tax Digital app for UK self-employed tax submissions. Quarterly HMRC integration, income/expense tracking, tax estimates.
-- 📈 **Pulse Alerts** — Price change notifications for crypto and stocks
-- 🌐 **Zeitgeist Dashboard** — Trending topics aggregator (X, Reddit, HN, CoinGecko, GitHub)
-- 🎤 **Zeph Voice** — Web + iOS voice interface to my AI assistant, using on-device Apple STT/TTS
-
-### iOS Apps
-
-- 💚 **NVR Companion** — iOS app for the Nonviolent Resistance Parenting Programme. SwiftUI + SwiftData, 9 animated NVR pillars, mood tracking, supporter network. Built with a business proposal targeting NHS and private practitioners.
-- 🗣️ **Zeph Voice iOS** — Native SwiftUI voice assistant with Apple Speech framework
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +55,7 @@ Custom software and AI solutions for businesses. From discovery to deployment �
 ## 🎙️ Content & Media
 
 - 🎥 **[YouTube](https://youtube.com/@wayne-george)** — AI demos, build walkthroughs, tutorials
-- 🐦 **[X / Twitter](https://twitter.com/waynegeorge)** — AI, crypto, building in public
+- 🐦 **[X / Twitter](https://twitter.com/waynegeorge_)** — AI, crypto, building in public
 - 🌐 **[waynegeorge.uk](https://waynegeorge.uk)** — Personal site
 - 🌐 **[frontierconsulting.ai](https://frontierconsulting.ai)** — Technology consultancy
 
@@ -78,7 +65,7 @@ Custom software and AI solutions for businesses. From discovery to deployment �
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@waynegeorge-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/waynegeorge)
+[![Twitter](https://img.shields.io/badge/-@waynegeorge-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/waynegeorge_)
 [![YouTube](https://img.shields.io/badge/-wayne--george-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@wayne-george)
 [![LinkedIn](https://img.shields.io/badge/-Wayne_George-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waynegeorgeuk)
 [![Website](https://img.shields.io/badge/-waynegeorge.uk-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://waynegeorge.uk)
@@ -88,7 +75,7 @@ Custom software and AI solutions for businesses. From discovery to deployment �
 
 ### Philosophy
 
-Everything I've built came from curiosity, persistence, and refusing to accept that the way things are is the way they have to be. I believe in fair systems, privacy as a right, and building tools that give people more control over their own lives.
+Everything I've built came from curiosity, persistence, and refusing to accept that the way things are is the way they have to be. I believe in fair systems and tools that give people more control over their own lives.
 
 ### Background
 
@@ -96,5 +83,4 @@ Everything I've built came from curiosity, persistence, and refusing to accept t
 - 🎓 First Class Honours degree, Microsoft C# certification, Crestron Certified Programmer, Q-SYS Advanced Lua scripting
 - 💰 Grin cryptocurrency council member with treasury oversight
 - 🏋️ Gym, swimming, long walks with the dog
-- 🌱 Trying to eat less meat, more veg — for the planet
 - 🇬🇧 London, born and raised
