@@ -16,7 +16,7 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-> 10+ years building control systems for the world's biggest companies. Now building AI-powered tools and helping businesses automate what they thought was impossible.
+> 11+ years building control systems for the world's biggest companies. Now building AI-powered tools and helping businesses automate what they thought was impossible.
 
 ## About Me
 
