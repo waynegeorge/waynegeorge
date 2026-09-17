@@ -24,7 +24,7 @@ I'm a software engineer from London who spent the last decade designing bespoke 
 
 Now I'm channelling all of that into **[Frontier Consulting](https://frontierconsulting.ai)** — a technology consultancy helping businesses implement custom software and AI solutions, not just talk about them.
 
-I'm also a **Grin cryptocurrency council member**, working to support one of the most principled privacy coins ever built.
+I'm also a **Grin cryptocurrency council member**, supporting one of the most principled privacy coins ever built.
 
 ## 🏗️ What I'm Building
 
@@ -79,8 +79,8 @@ Everything I've built came from curiosity, persistence, and refusing to accept t
 
 ### Background
 
-- 🏢 10+ years as a software engineer in the AV industry — bespoke control systems for corporate clients worldwide
-- 🎓 First Class Honours degree, Microsoft C# certification, Crestron Certified Programmer, Q-SYS Advanced Lua scripting
+- 🏢 11+ years as a software engineer in the AV industry — bespoke control systems for corporate clients worldwide
+- 🎓 First Class Honours degree in computer systems and networks engineering, Microsoft C# certification, Crestron Certified Programmer, Q-SYS Advanced Lua scripting
 - 💰 Grin cryptocurrency council member with treasury oversight
 - 🏋️ Gym, swimming, long walks with the dog
 - 🇬🇧 London, born and raised
